@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamprakash123&show_icons=true&locale=en" alt="shyamprakash123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamprakash123&" alt="shyamprakash123" /></p>
+
+[![An image of @shyamprakash123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamprakash123)](https://holopin.io/@shyamprakash123)
