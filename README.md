@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shyamprakashbollayadula@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/shyamprakashbollayadula](http://bit.ly/shyamprakashbollayadula)
+- 📄 Know about my experiences [Resume](https://bit.ly/bollayadulashyamprakash)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
